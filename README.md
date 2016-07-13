@@ -7,3 +7,5 @@ cause git shall be used in my company project, and my tutor taught me to check c
 add by remote master
 
 add by local branch louis_test
+
+add from local delete branch
