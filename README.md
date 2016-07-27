@@ -9,3 +9,5 @@ add by remote master
 add by local branch louis_test
 
 add from local delete branch
+
+local louis_test modify 2
