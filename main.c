@@ -2,5 +2,6 @@
 
 void main()
 {
-  printf("heoll world!!\n);
+	itn a = 0;
+	printf("heoll world!!\n);
 }
